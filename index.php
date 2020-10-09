@@ -7,6 +7,7 @@
             <br>  <br>  <br>
             <h4> SANNY REY JOVER | BSIT3A </h4>
             <h4> SVG Exercises - 7 Items  </h4>
+            <h4> <a href="https://github.com/reyjover/svgexercise" target="blank"> GitHub <a/> </h4>
             <div class="container"> 
                 <svg width="200px" height="300px" style="border:5px solid rgb(240, 211, 84); background-color: #161616;" >
             
